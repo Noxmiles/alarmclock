@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Alarm Clock using the Calendar</string>
+    <string name="inputMinutes">Minutes for Alarm:</string>
+    <string name="OneAlarm">Set One Shot Alarm</string>
+    <string name="stopAlarm">Stop Alarm</string>
+    <string name="textHintRadio">http://host.com/stream</string>
+    <string name="lookupRadio">Station overview</string>
+    <string name="addAlarm">Add the Alarm</string>
+    <string name="add">Add</string>
+</resources>
